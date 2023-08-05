@@ -1,6 +1,7 @@
 body{
     background-color: rgb(59, 55, 55);
     margin-left: 40px;
+    width: 100%;
 }
 
 h1{
@@ -17,9 +18,18 @@ h3{
 
 p{
     color:lightgray;
+    width: 100%;
 }
 
 img{
     float:left;
     margin-right: 40px;
+}
+
+table {
+    text-align: left;
+}
+
+td, th{
+    padding: 7px;
 }
